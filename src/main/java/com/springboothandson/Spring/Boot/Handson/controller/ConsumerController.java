@@ -2,7 +2,6 @@ package com.springboothandson.Spring.Boot.Handson.controller;
 
 import com.springboothandson.Spring.Boot.Handson.model.CartProduct;
 import com.springboothandson.Spring.Boot.Handson.model.Product;
-import com.springboothandson.Spring.Boot.Handson.model.User;
 import com.springboothandson.Spring.Boot.Handson.service.ConsumerService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

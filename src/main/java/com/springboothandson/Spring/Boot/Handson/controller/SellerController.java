@@ -1,7 +1,6 @@
 package com.springboothandson.Spring.Boot.Handson.controller;
 
 import com.springboothandson.Spring.Boot.Handson.model.Product;
-import com.springboothandson.Spring.Boot.Handson.model.User;
 import com.springboothandson.Spring.Boot.Handson.service.SellerService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
